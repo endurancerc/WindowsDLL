@@ -1,0 +1,20 @@
+Copyright 2011 - Endurance R/C - www.endurance-rc.com
+
+End User License Agreement for Endurance R/C Software
+
+Limitation of Liability:
+In no event shall Endurance R/C be liable for any special,
+incidental, punitive, multiple, indirect or consequential
+damages of any kind. Endurance R/C does not authorize the use 
+of its products to be used in life critical applications such
+as automotive, aircraft, military, medical, or emergency
+devices. Endurance R/C does not condone or authorize the use of
+its products as weapons. Use Endurance R/C products wisely!
+
+Terms:
+No warranty is offered on this software. By installing, copying,
+or using the software you agree to the terms of this EULA.
+You are welcome to distribute this software as long as this
+EULA remains part of the distributed package. You may not
+use this software for monetary gain. It is provided as a sample
+to get you started with developing your own applications.
